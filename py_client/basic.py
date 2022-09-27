@@ -9,6 +9,6 @@ print(get_response.text) # print raw text response
 
 # HTTP Request -> HTML
 # REST API HTTP Request -> JSON
-# JavaScript Object Nototion ~ Python Dict
+# JavaScript Object Notation ~ Python Dict
 print(get_response.json())
 print(get_response.status_code)
